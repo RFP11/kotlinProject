@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TabunganProject</string>
+    <string name="Profile">Profile</string>
+    <string name="userName">Rio Adjaya</string>
+    <string name="uang">Rp. 250.000</string>
+    <string name="profTxt">Profile</string>
+    <string name="editTxt">edit</string>
 </resources>
